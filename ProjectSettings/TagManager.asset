@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Ground
+  - base roja
+  - Player base
+  - Goomba
+  - AttackPlayer
+  - AttackEbemy
+  - BulletEnemy
+  - BulletPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - char
+  - Water
+  - UI
+  - Enemy
+  - Base enemiga
+  - Goomba
+  - Cabeza
+  - Pies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 1902190061
+    locked: 0
+  - name: muerte
+    uniqueID: 247072777
+    locked: 0
+  - name: Enemy
+    uniqueID: 3726924027
+    locked: 0
+  - name: Aliados
+    uniqueID: 226678635
+    locked: 0
+  - name: Player
+    uniqueID: 3913127987
+    locked: 0
+  - name: Sobrefondo
+    uniqueID: 3965134021
+    locked: 0
+  - name: UI
+    uniqueID: 4007507591
+    locked: 0
